@@ -1,0 +1,34 @@
+BOM Large Format/Frac SEM style attenuverter
+
+Part     Value         Device           Package         Description                                                                                                
+AV1      100K          ALPSRK11K114     ALPSCENTERTAP   ALPS Pot with center tap ground                                                                                                                   
+BIAS+    THONKICONNOLD THONKICONNOLD    THONKICONN      3.5mm socket for Eurorack modular synths                                                                                                          
+BIAS-    THONKICONNOLD THONKICONNOLD    THONKICONN      3.5mm socket for Eurorack modular synths                                                                                                          
+BIASPOT+ B100K         9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT "Tall Trimmer"  search on thonk.com                                                                                                
+BIASPOT- B100K         9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT "Tall Trimmer"                                                                                                 
+C1       .1uF          C5/3.5           C5B3.5          CAPACITOR                                                                                                                                         
+C2       .1uF          C5/3.5           C5B3.5          CAPACITOR                                                                                                                                         
+                                                                                                                                  
+IC1      TL082D        TL082D           SO08            OP AMP                                                                        
+IC3      TL084D        TL084D           SO14            OP AMP                                                                                                                                            
+IN+      THONKICONNOLD THONKICONNOLD    THONKICONN      3.5mm socket for Eurorack modular synths                                                                                                          
+IN-      THONKICONNOLD THONKICONNOLD    THONKICONN      3.5mm socket for Eurorack modular synths                                                                                                          
+OUT1     THONKICONNOLD THONKICONNOLD    THONKICONN      3.5mm socket for Eurorack modular synths                                                                                                          
+OUT2     THONKICONNOLD THONKICONNOLD    THONKICONN      3.5mm socket for Eurorack modular synths                                                                                                          
+P1       TPPAD1-13     TPPAD1-13        P1-13           Test pad NO NAME                                                                                                                                  
+P2       TPPAD1-13     TPPAD1-13        P1-13           Test pad NO NAME                                                                                                                                  
+P3       TPPAD1-13     TPPAD1-13        P1-13           Test pad NO NAME                                                                                                                                  
+R1       10K           R-US_0204/7      0204/7          RESISTOR, American symbol                                                                                                                         
+R2       1K            R-US_0204/7      0204/7          RESISTOR, American symbol                                                                                                                         
+R3       10K           R-US_0204/7      0204/7          RESISTOR, American symbol                                                                                                                         
+R4       1K            R-US_0204/7      0204/7          RESISTOR, American symbol                                                                                                                         
+R5       10K           R-US_0204/7      0204/7          RESISTOR, American symbol                                                                                                                         
+R6       1K            R-US_0204/7      0204/7          RESISTOR, American symbol                                                                                                                         
+R7       1K            R-US_0204/7      0204/7          RESISTOR, American symbol                                                                                                                         
+R8       10K           R-US_0204/7      0204/7          RESISTOR, American symbol                                                                                                                         
+R9       10K           R-US_0204/7      0204/7          RESISTOR, American symbol                                                                                                                         
+R10      10K           R-US_0204/7      0204/7          RESISTOR, American symbol                                                                                                                         
+R11      47K           R-US_0204/7      0204/7          RESISTOR, American symbol                                                                                                                         
+R12      100K          R-US_0204/7      0204/7          RESISTOR, American symbol                                                                                                                         
+R13      1K            R-US_0204/7      0204/7          RESISTOR, American symbol                                                                                                                         
+ 
